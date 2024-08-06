@@ -5,7 +5,7 @@ Recreating a given chart using different libraries.
 This is the project for "Sprint 8: Data Visualization with Python" of Tripleten's Data Analyst course.
 
 ## Project description
----
+
 Well done learning about seaborn and plotly. These libraries are extremally versatile with a wide range of functions and parameters. While we’ve only just scratched the surface, you should now be comfortable navigating both of these libraries for your future work, or personal projects. If you find yourself needing to do something beyond what has been covered, both libraries have great documentation of all of their functions.
 
 For your final project we’ve provided you with a dataset and a figure. Your job is to use either seaborn or plotly to recreate the figure using the dataset.
@@ -14,7 +14,6 @@ The dataset contains the results of a mock study where 100 red squirrels were gi
 
 ![image](figure_to_duplicate.png)
 
----
 
 ## Project guidelines
 You may use either seaborn or plotly to create your figure — it’s your choice! When you are done, submit a Jupyter Notebook .ipynb file that contains both your code and the figure it produces. The reviewer will run your code and compare your figure to ours.
